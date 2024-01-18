@@ -43088,7 +43088,7 @@ if(p===!0){q=q.d.a.a
 p=window.navigator
 p.toString
 s=t.z
-r=A.awO(A.aE(["text",q+"\nAm i your secret Ram too? Share your thoughts about me here: https://example.com/link-to-share"],s,s))
+r=A.awO(A.aE(["text",q+"\nAm i your secret Ram too? Share your thoughts about me here: https://dante291.github.io/"],s,s))
 q=p.share(r)
 q.toString
 A.eP(q,s)}},
