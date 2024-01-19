@@ -8783,7 +8783,8 @@ r4:function r4(a,b){this.c=a
 this.a=b},
 a4j:function a4j(a){this.a=a},
 a4i:function a4i(){},
-oB:function oB(a){this.a=a},
+oB:function oB(a,b){this.d=a
+this.a=b},
 S_:function S_(a,b,c){var _=this
 _.d=a
 _.e=b
@@ -42469,8 +42470,7 @@ $S:0}
 A.ae1.prototype={
 $1(a){var s=this.a
 s.d.a.toString
-s.a.toString
-return new A.oB(null)},
+return new A.oB(s.a.c,null)},
 $S:302}
 A.ae2.prototype={
 $1(a){return new A.ps(B.PX,B.PN,A.a([A.an7(B.PV,new A.ae0(a),null)],t.p),null)},
@@ -42514,16 +42514,17 @@ $1(a){if(a.length===0)return"Please enter your wishes"
 return null},
 $S:162}
 A.ahO.prototype={
-$0(){var s,r,q=this.a,p=q.e.gK()
-p=p==null?null:p.yM()
-if(p===!0){q=q.d.a.a
-p=window.navigator
+$0(){var s,r,q,p=this.a,o=p.e.gK()
+o=o==null?null:o.yM()
+if(o===!0){o=p.d.a.a
+p=p.a.d
+s=window.navigator
+s.toString
+r=t.z
+q=A.avb(A.aD(["text","Jai Shree Ram\u2764\ud83d\udd49\n\n"+o+"\n\n"+p+" thinks you are his secret Ram too. Share your thoughts about him here: https://dante291.github.io/"],r,r))
+p=s.share(q)
 p.toString
-s=t.z
-r=A.avb(A.aD(["text","Jai Shree Ram\u2764\ud83d\udd49\n\n"+q+"\n\nAm i your secret Ram too? Share your thoughts about me here: https://dante291.github.io/"],s,s))
-q=p.share(r)
-q.toString
-A.ff(q,s)}},
+A.ff(p,r)}},
 $S:0}
 A.uD.prototype={
 ad(){return new A.Mp(null,null,B.k)}}
@@ -82400,7 +82401,7 @@ B.D8=new A.lA(null,null,null,"Your Username",null,null,null,null,null,null,null,
 B.D9=new A.lA(null,null,null,"Your Thoughts",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,B.hW,null,null,null,null,null,null,null,B.jh,!0,null,null,null)
 B.Da=new A.lA(null,null,null,"Your Email",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,B.hW,null,null,null,null,null,null,null,B.jh,!0,null,null,null)
 B.T9=new A.lA(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null)
-B.Db=new A.wL("2","Share it with your Secret Ram",null)
+B.Db=new A.wL("2","Enlighten others with your Secret Ram",null)
 B.Dc=new A.wL("1","Decorate your Ram",null)
 B.Df=new A.iK(0,0.1,B.ae)
 B.De=new A.iK(0.125,0.25,B.ae)
