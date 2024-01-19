@@ -42346,7 +42346,7 @@ r=s>400?400:s
 q=A.dZ("assets/images/ram splash.jpg",B.aY,n,n)
 p=A.O(255,132,108,92)
 o=t.p
-return A.op(B.l,A.dy(new A.dz(new A.au(0,r,0,1/0),A.f3(B.b8,A.a([q,A.fO(A.a([B.Co,new A.bG(B.lZ,A.fO(A.a([B.PH,B.xz,A.vU(B.PQ,new A.a8_(a),A.vW(n,n,n,n,n,n,n,n,n,n,n,n,A.O(255,255,255,255),n,p,n,n,n,n,n,n))],o),B.bB,B.c1,B.b3),n)],o),B.bB,B.j8,B.b3)],o),B.U,B.ej),n),n,n))}}
+return A.op(B.l,A.dy(new A.dz(new A.au(0,r,0,1/0),A.f3(B.b8,A.a([q,A.fO(A.a([B.Co,new A.bG(B.lZ,A.fO(A.a([B.PH,B.xz,A.vU(B.PS,new A.a8_(a),A.vW(n,n,n,n,n,n,n,n,n,n,n,n,A.O(255,255,255,255),n,p,n,n,n,n,n,n))],o),B.bB,B.c1,B.b3),n)],o),B.bB,B.j8,B.b3)],o),B.U,B.ej),n),n,n))}}
 A.a8_.prototype={
 $0(){A.fy(this.a,!1).hP(A.lL(new A.a7Z(),null,t.z))},
 $S:0}
@@ -42371,7 +42371,7 @@ QI(a){var s,r=this.c
 r.toString
 s=A.lL(new A.aiH(a),null,t.z)
 A.fy(r,!1).hP(s)},
-M(a){var s,r,q,p,o=this,n=null,m=A.bt(a,n,t.w).w.a.a,l=m>400?400:m,k=A.amL(0,A.dZ("assets/images/background.png",B.aY,n,n)),j=t.p,i=A.a([A.kp(A.dZ("assets/images/ramji.png",B.aY,550,150),n,200)],j)
+M(a){var s,r,q,p,o=this,n=null,m=A.bt(a,n,t.w).w.a.a,l=m>400?400:m,k=A.amL(0,A.dZ("assets/images/background.jpg",B.aY,n,n)),j=t.p,i=A.a([A.kp(A.dZ("assets/images/ramji.png",B.aY,550,150),n,200)],j)
 for(s=o.d,r=s.length,q=0;q<s.length;s.length===r||(0,A.J)(s),++q){p=s[q]
 i.push(new A.kg(p.c,p.b,n,n,n,n,new A.f1(p.d,p.e,p.a,n),n))}i=A.dy(A.f3(B.M,i,B.U,B.bJ),n,n)
 s=A.uU(8)
@@ -42407,7 +42407,7 @@ A.iO.prototype={}
 A.na.prototype={
 ad(){return new A.Oa(new A.rV(B.hc,$.az()),B.k)}}
 A.Oa.prototype={
-M(a){var s=this,r=null,q=A.bt(a,r,t.w).w.a.a,p=q>400?400:q,o=A.dZ("assets/images/background.png",B.aY,r,r),n=s.d,m=t.p,l=A.a([B.PY,B.jP,B.PL,B.jO,A.an7(n,B.Da,B.M4,1,new A.adY(s),r)],m)
+M(a){var s=this,r=null,q=A.bt(a,r,t.w).w.a.a,p=q>400?400:q,o=A.dZ("assets/images/background.jpg",B.aY,r,r),n=s.d,m=t.p,l=A.a([B.PY,B.jP,B.PM,B.jO,A.an7(n,B.Da,B.M4,1,new A.adY(s),r)],m)
 if(!s.e&&n.a.a.length!==0)l.push(B.Ir)
 l.push(B.jN)
 l.push(A.vU(B.xU,new A.adZ(s,a),A.vW(r,r,B.lA,r,r,r,r,r,r,B.l,r,r,r,B.eO,r,r,B.jQ,r,r,r,r)))
@@ -42472,14 +42472,14 @@ s.a.toString
 return new A.oB(null)},
 $S:306}
 A.ae1.prototype={
-$1(a){return new A.ps(B.PX,B.PM,A.a([A.an6(B.PT,new A.ae_(a),null)],t.p),null)},
+$1(a){return new A.ps(B.PX,B.PN,A.a([A.an6(B.PV,new A.ae_(a),null)],t.p),null)},
 $S:308}
 A.ae_.prototype={
 $0(){A.fy(this.a,!1).ye(null)},
 $S:0}
 A.qE.prototype={
 M(a){var s=null,r=A.bt(a,s,t.w).w.a.a,q=r>400?400:r,p=t.p
-return A.op(B.l,A.dy(new A.dz(new A.au(0,q,0,1/0),A.f3(B.b8,A.a([A.amL(0,A.dZ("assets/images/background.png",B.aY,s,s)),A.amU(!0,new A.bG(B.eP,A.fO(A.a([A.dZ("assets/images/mandir.png",s,200,200),B.Dc,B.xz,B.Db,B.KZ,A.vU(B.PJ,new A.a28(a),A.vW(s,s,s,s,s,s,s,s,s,s,s,s,s,B.id,B.AU,s,new A.cm(A.uU(30),B.n),s,s,s,s))],p),B.bS,B.cn,B.b3),s),B.aH,!0)],p),B.U,B.bJ),s),s,s))}}
+return A.op(B.l,A.dy(new A.dz(new A.au(0,q,0,1/0),A.f3(B.b8,A.a([A.amL(0,A.dZ("assets/images/background.jpg",B.aY,s,s)),A.amU(!0,new A.bG(B.eP,A.fO(A.a([A.dZ("assets/images/mandir.png",s,200,200),B.Dc,B.xz,B.Db,B.KZ,A.vU(B.PJ,new A.a28(a),A.vW(s,s,s,s,s,s,s,s,s,s,s,s,s,B.id,B.AU,s,new A.cm(A.uU(30),B.n),s,s,s,s))],p),B.bS,B.cn,B.b3),s),B.aH,!0)],p),B.U,B.bJ),s),s,s))}}
 A.a28.prototype={
 $0(){A.fy(this.a,!1).hP(A.lL(new A.a27(),null,t.z))},
 $S:0}
@@ -42496,7 +42496,7 @@ return new A.xh(new A.uD(s),A.A3(s,s),!1,s)}}
 A.r4.prototype={
 M(a){var s,r,q,p,o=null,n=A.bt(a,o,t.w).w.a.a,m=n>400?400:n,l=A.dZ("assets/images/Background1.png",B.aY,o,o),k=t.p,j=A.a([A.kp(A.dZ("assets/images/ramji.png",B.aY,550,150),o,200)],k)
 for(s=this.c,r=s.length,q=0;q<s.length;s.length===r||(0,A.J)(s),++q){p=s[q]
-j.push(new A.kg(p.c,p.b,o,o,o,o,new A.f1(p.d,p.e,p.a,o),o))}return A.op(B.l,A.dy(new A.dz(new A.au(0,m,0,1/0),A.f3(B.b8,A.a([l,A.dy(A.fP(o,A.fO(A.a([A.f3(B.M,j,B.U,B.bJ),new A.bG(B.Cc,A.vU(B.PS,new A.a4i(a),A.vW(o,o,o,o,o,o,o,o,o,o,o,o,B.i,o,B.AN,o,o,o,o,o,o)),o)],k),B.bB,B.c1,B.b3),B.v,o,o,o,o,o,o,B.C1,o,o,o),o,o)],k),B.U,B.ej),o),o,o))}}
+j.push(new A.kg(p.c,p.b,o,o,o,o,new A.f1(p.d,p.e,p.a,o),o))}return A.op(B.l,A.dy(new A.dz(new A.au(0,m,0,1/0),A.f3(B.b8,A.a([l,A.dy(A.fP(o,A.fO(A.a([A.f3(B.M,j,B.U,B.bJ),new A.bG(B.Cc,A.vU(B.PU,new A.a4i(a),A.vW(o,o,o,o,o,o,o,o,o,o,o,o,B.i,o,B.AN,o,o,o,o,o,o)),o)],k),B.bB,B.c1,B.b3),B.v,o,o,o,o,o,o,B.C1,o,o,o),o,o)],k),B.U,B.ej),o),o,o))}}
 A.a4i.prototype={
 $0(){return A.fy(this.a,!1).hP(A.lL(new A.a4h(),null,t.z))},
 $S:0}
@@ -42506,10 +42506,10 @@ $S:320}
 A.oB.prototype={
 ad(){return new A.S_(new A.rV(B.hc,$.az()),new A.bx(null,t.am),B.k)}}
 A.S_.prototype={
-M(a){var s=null,r=A.dZ("assets/images/background.png",B.aY,s,s),q=t.p,p=A.fO(A.a([B.PI,B.jP,B.PW,B.jO,A.an7(this.d,B.D9,s,5,s,new A.ahM()),B.jN,A.vU(B.PN,new A.ahN(this),A.vW(s,s,B.lA,s,s,s,s,s,s,B.l,s,s,s,B.eO,s,s,B.jQ,s,s,s,s))],q),B.bS,B.cn,B.b3)
+M(a){var s=null,r=A.dZ("assets/images/background.jpg",B.aY,s,s),q=t.p,p=A.fO(A.a([B.PI,B.jP,B.PQ,B.jO,A.an7(this.d,B.D9,s,5,s,new A.ahM()),B.jN,A.vU(B.PO,new A.ahN(this),A.vW(s,s,B.lA,s,s,s,s,s,s,B.l,s,s,s,B.eO,s,s,B.jQ,s,s,s,s))],q),B.bS,B.cn,B.b3)
 return A.op(B.l,A.dy(new A.dz(B.yW,A.f3(B.b8,A.a([r,new A.bG(B.eP,new A.wo(p,B.kJ,this.e),s)],q),B.U,B.ej),s),s,s))}}
 A.ahM.prototype={
-$1(a){if(a.length===0)return"Please enter your thoughts"
+$1(a){if(a.length===0)return"Please enter your wishes"
 return null},
 $S:324}
 A.ahN.prototype={
@@ -42595,7 +42595,7 @@ this.ia()}}
 A.oR.prototype={
 ad(){return new A.TA(new A.rV(B.hc,$.az()),B.k)}}
 A.TA.prototype={
-M(a){var s=this,r=null,q=A.bt(a,r,t.w).w.a.a,p=q>400?400:q,o=A.dZ("assets/images/background.png",B.aY,r,r),n=s.d,m=t.p,l=A.a([B.PP,B.jP,B.PR,B.jO,A.an7(n,B.D8,r,1,new A.aiV(s),r)],m)
+M(a){var s=this,r=null,q=A.bt(a,r,t.w).w.a.a,p=q>400?400:q,o=A.dZ("assets/images/background.jpg",B.aY,r,r),n=s.d,m=t.p,l=A.a([B.PR,B.jP,B.PT,B.jO,A.an7(n,B.D8,r,1,new A.aiV(s),r)],m)
 if(!s.e&&n.a.a.length!==0)l.push(new A.bG(B.lX,A.ks("Please enter a valid username",r,r,r,A.j9(r,r,A.O(255,0,0,0),r,r,r,r,r,r,r,r,12,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),r))
 l.push(B.jN)
 n=A.O(255,0,0,0)
@@ -82293,8 +82293,8 @@ B.Ca=new A.av(18,130,0,0)
 B.AY=new A.z(4294505713)
 B.af=new A.fT(4)
 B.Ne=new A.p(!0,B.AY,null,null,null,null,30,B.af,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.PO=new A.cR("Who is your secret Ram?",null,B.Ne,null,null,null,null,null,null)
-B.Iq=new A.bG(B.Ca,B.PO,null)
+B.PP=new A.cR("Who is your secret Ram?",null,B.Ne,null,null,null,null,null,null)
+B.Iq=new A.bG(B.Ca,B.PP,null)
 B.KY=new A.f1(null,20,null,null)
 B.DS=A.a(s([B.Iq,B.KY]),t.p)
 B.B5=new A.vh(B.aX,B.j8,B.b3,B.bB,null,B.cw,null,B.DS,null)
@@ -83645,11 +83645,11 @@ B.Io=new A.J_(1,"end")
 B.C0=new A.av(0,28,0,0)
 B.B_=new A.z(4294956895)
 B.Mr=new A.p(!0,B.B_,null,null,null,null,24,B.dy,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.PV=new A.cR("Customize Your Ram",null,B.Mr,B.bt,null,null,null,null,null)
-B.Ip=new A.bG(B.C0,B.PV,null)
+B.PL=new A.cR("Decorate Your Ram",null,B.Mr,B.bt,null,null,null,null,null)
+B.Ip=new A.bG(B.C0,B.PL,null)
 B.Ob=new A.p(!0,B.l,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.PU=new A.cR("Please enter a valid email address",null,B.Ob,null,null,null,null,null,null)
-B.Ir=new A.bG(B.lX,B.PU,null)
+B.PW=new A.cR("Please enter a valid email address",null,B.Ob,null,null,null,null,null,null)
+B.Ir=new A.bG(B.lX,B.PW,null)
 B.aO=new A.Jl(0,"fill")
 B.a1=new A.Jl(1,"stroke")
 B.Is=new A.lR(1/0)
@@ -84244,16 +84244,16 @@ B.PJ=new A.cR("Next",null,B.Op,null,null,null,null,null,null)
 B.xR=new A.p(!0,null,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.xU=new A.cR("Next",null,B.xR,null,null,null,null,null,null)
 B.jZ=new A.p(!0,B.l,null,null,null,null,16,B.af,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.PL=new A.cR("Email will be used for verification",null,B.jZ,B.bt,null,null,null,null,null)
-B.PM=new A.cR("An error occurred. Please try again later.",null,null,null,null,null,null,null,null)
-B.PN=new A.cR("Share",null,B.xR,null,null,null,null,null,null)
-B.PP=new A.cR("Enter Your Username",null,B.jX,B.bt,null,null,null,null,null)
-B.PQ=new A.cR("Start",null,null,null,null,null,null,null,null)
-B.PR=new A.cR("Username will be used for identification",null,B.jZ,B.bt,null,null,null,null,null)
+B.PM=new A.cR("Email will be used for verification",null,B.jZ,B.bt,null,null,null,null,null)
+B.PN=new A.cR("An error occurred. Please try again later.",null,null,null,null,null,null,null,null)
+B.PO=new A.cR("Share",null,B.xR,null,null,null,null,null,null)
+B.PQ=new A.cR("Share your wishes with your RAM",null,B.jZ,B.bt,null,null,null,null,null)
+B.PR=new A.cR("Enter Your Username",null,B.jX,B.bt,null,null,null,null,null)
+B.PS=new A.cR("Start",null,null,null,null,null,null,null,null)
+B.PT=new A.cR("Username will be used for identification",null,B.jZ,B.bt,null,null,null,null,null)
 B.NP=new A.p(!0,null,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.PS=new A.cR("Share with your Ram",null,B.NP,null,null,null,null,null,null)
-B.PT=new A.cR("OK",null,null,null,null,null,null,null,null)
-B.PW=new A.cR("Share your thoughts about your RAM",null,B.jZ,B.bt,null,null,null,null,null)
+B.PU=new A.cR("Share with your Ram",null,B.NP,null,null,null,null,null,null)
+B.PV=new A.cR("OK",null,null,null,null,null,null,null,null)
 B.PX=new A.cR("Error",null,null,null,null,null,null,null,null)
 B.PY=new A.cR("Enter Your Email",null,B.jX,B.bt,null,null,null,null,null)
 B.Ti=new A.aaR(0,"system")
