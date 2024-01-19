@@ -42521,7 +42521,7 @@ p=p.a.d
 s=window.navigator
 s.toString
 r=t.z
-q=A.avb(A.aD(["text","Jai Shree Ram\u2764\ud83d\udd49\n\n"+o+"\n\n"+p+" thinks you are his secret Ram too. Share your thoughts about him here: https://dante291.github.io/"],r,r))
+q=A.avb(A.aD(["text","Jai Shree Ram\u2764\ud83d\udd49\ud83d\udea9\n\n"+o+"\n\n"+p+" thinks you are his secret Ram. Share your thoughts about him here: https://dante291.github.io/"],r,r))
 p=s.share(q)
 p.toString
 A.ff(p,r)}},
