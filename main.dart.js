@@ -42594,7 +42594,7 @@ this.ia()}}
 A.oR.prototype={
 ad(){return new A.TA(new A.rV(B.hc,$.az()),B.k)}}
 A.TA.prototype={
-M(a){var s=this,r=null,q=A.bt(a,r,t.w).w.a.a,p=q>400?400:q,o=A.dZ("assets/images/background.png",B.aY,r,r),n=s.d,m=t.p,l=A.a([B.PR,B.jP,B.PT,B.jO,A.an8(n,B.D8,r,1,new A.aiW(s),new A.aiX())],m)
+M(a){var s=this,r=null,q=A.bt(a,r,t.w).w.a.a,p=q>400?400:q,o=A.dZ("assets/images/background.jpg",B.aY,r,r),n=s.d,m=t.p,l=A.a([B.PR,B.jP,B.PT,B.jO,A.an8(n,B.D8,r,1,new A.aiW(s),new A.aiX())],m)
 if(!s.e&&n.a.a.length!==0)l.push(new A.bG(B.lX,A.ks("Please enter a valid username",r,r,r,A.j9(r,r,A.O(255,0,0,0),r,r,r,r,r,r,r,r,12,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),r))
 l.push(B.jN)
 n=A.O(255,0,0,0)
