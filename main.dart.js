@@ -42584,7 +42584,7 @@ p=p.a.c
 s=window.navigator
 s.toString
 r=t.z
-q=A.avn(A.aD(["text","Jai Shree Ram\ud83d\udd49\ud83d\udea9\n\n"+o+"\n\n"+p+" shared Maryada Purshottam V-Ram with you. Share your thoughts about him here: https://dante291.github.io/"],r,r))
+q=A.avn(A.aD(["text","Jai Shree Ram\ud83d\udd49\ud83d\udea9\n\n"+o+"\n\n"+p+" shared Maryada Purshottam virtual Ram with you. Share your thoughts about him here: https://dante291.github.io/"],r,r))
 p=s.share(q)
 p.toString
 A.ff(p,r)}},
