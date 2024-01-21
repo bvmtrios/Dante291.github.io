@@ -43092,7 +43092,7 @@ A.Jr.prototype={
 K(a){var s=null
 return new A.xJ(new A.v4(s),A.AF(s,s),!1,s)}}
 A.rr.prototype={
-K(a){var s,r,q,p,o,n,m,l,k=null,j=t.w,i=A.bv(a,k,j).w.a.b,h=i*0.1,g=A.bv(a,k,j).w.a.a
+K(a){var s,r,q,p,o,n,m,l,k=null,j=t.w,i=A.bv(a,k,j).w.a.b,h=i*0.002,g=A.bv(a,k,j).w.a.a
 j=g>400?400:g
 s=A.eG("assets/images/Background1.png",B.bn,k,k)
 r=A.O(111,0,0,0)
